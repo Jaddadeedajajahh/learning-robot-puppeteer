@@ -1,8 +1,6 @@
 *** Settings ***
 Library    PuppeteerLibrary
-# Suite Teardown    Close Browser
-
-#12345789111213
+Suite Teardown    Close Browser
 
 ***Variables***
 
